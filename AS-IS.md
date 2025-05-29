@@ -18,7 +18,7 @@ Le but est de **comprendre la situation de départ** avant de recommander des ch
 
 ### 🏢 Entreprise : LogiMed (Logistique & Transport International)
 
-![image](pic2.png)
+![image](bla2.png)
 
 Ils utilisent actuellement :
 
