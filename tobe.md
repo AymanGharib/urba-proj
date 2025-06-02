@@ -108,6 +108,8 @@
 
 **Approche par lots fonctionnels priorisés** :
 
+![image](gantt.png)
+
 ### 📊 Lot 1 : ERP
 
 * Exposition via API des fonctions financières
