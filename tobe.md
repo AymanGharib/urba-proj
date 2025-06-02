@@ -78,6 +78,7 @@
 ---
 
 # 🗐️ Plan d’urbanisation du SI – LogiMed
+![image](gantt.png)
 
 ---
 
@@ -108,7 +109,6 @@
 
 **Approche par lots fonctionnels priorisés** :
 
-![image](gantt.png)
 
 ### 📊 Lot 1 : ERP
 
